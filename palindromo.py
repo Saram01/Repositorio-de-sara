@@ -11,3 +11,6 @@ while texto_limpio[i:i + 1] != "":
     i += 1
 
 print(es_palindromo)
+
+
+#Despues de estresarme por horas depsues de un largo dia de trabajo, espero que haya valido la pena...
